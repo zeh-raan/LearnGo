@@ -14,4 +14,5 @@ func main() {
 	fmt.Printf("You have to be a %d/%d\n", 10, 10)
 	// %f - replace the parameter(s) into a float64 and significant figure can be specified
 	fmt.Printf("You are %.2f there", 99.9888)
+	fmt.Printf("You are %.2f there", 99.9888)
 }
